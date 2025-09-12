@@ -1,0 +1,52 @@
+#card{
+    text-align: center;
+    background-color: blue;
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    border: 2px solid black;
+}
+
+
+#soma{
+    background-color: #00d0ff;
+    border-radius: 15px;
+    height: 50px;
+    width: 50px;
+}
+#subtracao{
+    background-color: #00d0ff;
+    border-radius: 15px;
+    height: 50px;
+    width: 50px;
+}
+#multiplicacao{
+    background-color: #00d0ff;
+    border-radius: 15px;
+    height: 50px;
+    width: 50px;
+}
+#divisao{
+    background-color: #00d0ff;
+    border-radius: 15px;
+    height: 50px;
+    width: 50px;
+}
+#resultado{
+    background-color: #00d0ff;
+    height: 50px;
+    border-radius: 15px;
+}
+#numero1{
+    background-color: #00d0ff;
+    height: 50px;
+    border-radius: 15px;
+}
+#numero2{
+    background-color: #00d0ff;
+    height: 50px;
+    border-radius: 15px;
+}
