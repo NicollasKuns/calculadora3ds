@@ -1,7 +1,6 @@
 body{
     background-color: #333333;
 }
-
 #card{
     text-align: center;
     background-color: rgb(29, 29, 29);
@@ -14,8 +13,6 @@ body{
     border: 2px solid rgb(29, 29, 29);
     color: white;
 }
-
-
 #soma{
     background-color: #333333;
     border-radius: 15px;
@@ -28,7 +25,6 @@ body{
     background-color: #202020;
 }
 
-
 #subtracao{
     background-color: #333333;
     border-radius: 15px;
@@ -40,7 +36,6 @@ body{
 #subtracao:hover{
     background-color: #202020;
 }
-
 #multiplicacao{
     background-color: #333333;
     border-radius: 15px;
@@ -52,7 +47,6 @@ body{
 #multiplicacao:hover{
     background-color: #202020;
 }
-
 #divisao{
     background-color: #333333;
     border-radius: 15px;
@@ -64,7 +58,6 @@ body{
 #divisao:hover{
     background-color: #202020;
 }
-
 #numero1{
     background-color: #333333;
     height: 50px;
@@ -78,7 +71,6 @@ body{
     color: white;
 
 }
-
 #resultados{
     background-color: #333333;
     border-radius: 10px;
@@ -86,4 +78,3 @@ body{
     width: 100px;
     font-size: 20px;
 }
-
