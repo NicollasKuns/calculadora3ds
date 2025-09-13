@@ -1,6 +1,6 @@
 #card{
     text-align: center;
-    background-color: blue;
+    background-color: rgb(29, 29, 29);
     height: auto;
     width: 300px;
     border-radius: 15px;
@@ -8,45 +8,57 @@
     margin-right: auto;
     margin-top: auto;
     border: 2px solid black;
+    color: white;
 }
 
 
 #soma{
-    background-color: #00d0ff;
+    background-color: #333333;
     border-radius: 15px;
     height: 50px;
     width: 50px;
+    color: white;
+
 }
 #subtracao{
-    background-color: #00d0ff;
+    background-color: #333333;
     border-radius: 15px;
     height: 50px;
     width: 50px;
+    color: white;
 }
 #multiplicacao{
-    background-color: #00d0ff;
+    background-color: #333333;
     border-radius: 15px;
     height: 50px;
     width: 50px;
+    color: white;
 }
 #divisao{
-    background-color: #00d0ff;
+    background-color: #333333;
     border-radius: 15px;
     height: 50px;
     width: 50px;
-}
-#resultado{
-    background-color: #00d0ff;
-    height: 50px;
-    border-radius: 15px;
+    color: white;
 }
 #numero1{
-    background-color: #00d0ff;
+    background-color: #333333;
     height: 50px;
     border-radius: 15px;
+    color: white;
 }
 #numero2{
-    background-color: #00d0ff;
+    background-color: #333333;
     height: 50px;
     border-radius: 15px;
+    color: white;
+
+}
+
+#resultados{
+    background-color: #333333;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 100px;
+    list-style-type: none;
 }
