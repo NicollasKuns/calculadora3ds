@@ -1,9 +1,9 @@
 body{
-    background-color: #333333;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 #card{
     text-align: center;
-    background-color: rgb(29, 29, 29);
+    backdrop-filter: blur(15px);
     height: auto;
     width: 300px;
     border-radius: 15px;
@@ -14,7 +14,7 @@ body{
     color: white;
 }
 #soma{
-    background-color: #333333;
+    background-color: transparent;
     border-radius: 15px;
     height: 50px;
     width: 50px;
@@ -22,11 +22,11 @@ body{
     cursor: pointer;
 }
 #soma:hover{
-    background-color: #202020;
+    background-color: #031d8f;
 }
 
 #subtracao{
-    background-color: #333333;
+    background-color: transparent;
     border-radius: 15px;
     height: 50px;
     width: 50px;
@@ -34,10 +34,10 @@ body{
     cursor: pointer;
 }
 #subtracao:hover{
-    background-color: #202020;
+    background-color: #031d8f;
 }
 #multiplicacao{
-    background-color: #333333;
+    background-color: transparent;
     border-radius: 15px;
     height: 50px;
     width: 50px;
@@ -45,10 +45,10 @@ body{
     cursor: pointer;
 }
 #multiplicacao:hover{
-    background-color: #202020;
+    background-color: #031d8f;
 }
 #divisao{
-    background-color: #333333;
+    background-color: transparent;
     border-radius: 15px;
     height: 50px;
     width: 50px;
@@ -56,23 +56,23 @@ body{
     cursor: pointer;
 }
 #divisao:hover{
-    background-color: #202020;
+    background-color: transparent;
 }
 #numero1{
-    background-color: #333333;
+    background-color: transparent;
     height: 50px;
     border-radius: 15px;
     color: white;
 }
 #numero2{
-    background-color: #333333;
+    background-color: transparent;
     height: 50px;
     border-radius: 15px;
     color: white;
 
 }
 #resultados{
-    background-color: #333333;
+    background-color: transparent;
     border-radius: 10px;
     margin: 0 auto;
     width: 100px;
